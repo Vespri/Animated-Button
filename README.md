@@ -1,4 +1,4 @@
-# CSS-Animated-Button
+# Animated-Button
 This is my exercise about CSS.
 
 # Gif
